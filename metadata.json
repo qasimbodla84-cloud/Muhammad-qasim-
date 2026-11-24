@@ -1,0 +1,8 @@
+{
+  "name": "Primary Folio",
+  "description": "Grade 1 to 5 elementary lesson plan studio, curriculum library, pacing timer, and weekly teaching scheduler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
